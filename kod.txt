@@ -1,0 +1,23 @@
+<layout>
+ <configItem>
+   <name>otmq</name>
+   <shortDescription>otmq</shortDescription>
+   <description>Osmanlica(Q)</description>
+   <languageList>
+      <iso639Id>otmq</iso639Id>
+   </languageList>
+ </configItem>
+ <variantList/>
+</layout>
+
+<layout>
+ <configItem>
+   <name>otmf</name>
+   <shortDescription>otmf</shortDescription>
+   <description>Osmanlica(F)</description>
+   <languageList>
+      <iso639Id>otmf</iso639Id>
+   </languageList>
+ </configItem>
+ <variantList/>
+</layout>
