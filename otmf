@@ -61,8 +61,8 @@ xkb_symbols "basic" {
     key <AB06> { [ Arabic_zain,		Arabic_zah,		VoidSymbol	] };
     key <AB07> { [ Arabic_seen,		Arabic_sukun,		VoidSymbol	] };
     key <AB08> { [ Arabic_beh,		Arabic_hamzaunderalef,	VoidSymbol	] };
-    key <AB09> { [ period,		colon,  		VoidSymbol	] };
-    key <AB10> { [ U2018,		Arabic_semicolon,	VoidSymbol	] };
+    key <AB09> { [ period,		U061E,			VoidSymbol	] };
+    key <AB10> { [ Arabic_comma,	Arabic_semicolon,	VoidSymbol	] };
 
     include "kpdl(comma)"
     include "level3(ralt_switch)"
