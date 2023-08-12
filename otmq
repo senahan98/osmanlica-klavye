@@ -51,7 +51,7 @@ xkb_symbols "basic" {
     key <AC09> { [ Arabic_lam,		VoidSymbol,		VoidSymbol	] };
     key <AC10> { [ Arabic_sheen,	Arabic_shadda,		VoidSymbol	] };
     key <AC11> { [ Arabic_dad,		Arabic_kasra,		VoidSymbol	] };
-    key <AC12> { [ U2018,		Arabic_semicolon,	VoidSymbol	] };
+    key <AC12> { [ Arabic_comma,	Arabic_semicolon,	VoidSymbol	] };
 
     key <AB01> { [ Arabic_zain,		Arabic_zah,		VoidSymbol	] };
     key <AB02> { [ Arabic_khah,		Arabic_hamza,		VoidSymbol	] };
